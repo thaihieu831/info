@@ -1,0 +1,159 @@
+.content_main{
+    background-image: linear-gradient(#99ccff, #3399ff);
+    padding:30px;
+}
+/*header*/
+.header{
+    padding: 20px;
+    background: #b3ccff;
+    border-radius: 20px;
+}
+/*info left*/
+.info-left{
+    display: inline-flex;
+}
+.avatar{
+    display: flex;
+}
+.avt{
+    width: 160px;
+    height: 160px;
+    border-radius:20px;
+}
+.name-left{
+    margin-left: 10px;
+    padding-bottom: 90px;
+}
+.icon-left{
+    margin-left: 10px;
+}
+.fa-facebook{
+    font-size:30px;
+}
+.fa-facebook:hover{
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 50%;
+}
+.fa-facebook-messenger{
+    font-size:30px;
+    margin-left: 10px;
+}
+.fa-facebook-messenger:hover{
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 50%;
+}
+.fa-instagram{
+    font-size:30px;
+    margin-left: 10px;
+}
+.fa-instagram:hover{
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 50%;
+}
+.fa-github{
+    font-size:30px;
+    margin-left: 10px;
+}
+.fa-github:hover{
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 50%;
+}
+/*info-right*/
+.info-right{
+    border-left: 1px solid #8585ad;
+}
+.title{
+    color: #8585ad;
+}
+.info{
+    color: black;
+}
+/* CONTENT */
+/* content left */
+.content_left{
+    padding: 50px;
+}
+.select{
+    padding: 50px;
+    background: #b3ccff;
+    border-radius: 20px;
+}
+.self{
+    padding: 20px;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+}
+.self:hover{
+    color: #b3ccff;
+}
+.interest{
+    padding: 20px;
+    background: white;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.show-info{
+    background: #b3ccff;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+.review{
+    text-decoration: none;
+    font-weight: 700;
+}
+.fa-user{
+    font-size:50px;
+    margin-left: 40%;
+}
+.fa-user:hover{
+    color: #b3ccff;
+}
+.fa-heart{
+    font-size:50px;
+    margin-left: 40%;
+}
+.fa-heart:hover{
+    color: #b3ccff;
+}
+.review_detail{
+    text-align: center;
+    margin-top: 10px;
+}
+.intro{
+    border-left: 3px solid blue;
+    padding-left: 10px;
+}
+/* interest */
+.img-interest{
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+}
+.enjoy{
+    padding: 20px;
+    background: #cce6ff;
+    border-radius: 20px;
+    display: flex;
+}
+.enjoy-1{
+    padding: 20px;
+    background: #cce6ff;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.enjoy-2{
+    padding: 20px;
+    background: #cce6ff;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    display: flex;
+}

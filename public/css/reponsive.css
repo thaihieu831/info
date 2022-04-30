@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+/*tablet*/
+@media (min-width:46.25em) and (max-width:64em) {
+    .info-left{
+        text-align: center;
+    }
+}
+/*mobile*/
+@media (max-width:46.18em){
+    .info-right{
+        border-left: none;
+        margin-left: 50px;
+    }
+    .title{
+        margin-top: 10px;
+    }
+}
+/*tablet and pc*/
+@media (max-width:73.75em){
+    .info{
+        font-size: 15px;
+    }
+}

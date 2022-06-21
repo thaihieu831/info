@@ -141,15 +141,7 @@
     border-radius: 20px;
     display: flex;
 }
-.enjoy-1{
-    padding: 20px;
-    background: #cce6ff;
-    margin-top: 10px;
-    border-radius: 20px;
-    margin-bottom: 10px;
-    display: flex;
-}
-.enjoy-2{
+.enjoy-1, .enjoy-2, .enjoy-3{
     padding: 20px;
     background: #cce6ff;
     margin-top: 10px;

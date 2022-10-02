@@ -1,6 +1,7 @@
 .content_main{
     background-image: linear-gradient(#99ccff, #3399ff);
     padding:30px;
+    height: 100vh;
 }
 /*header*/
 .header{
